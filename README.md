@@ -16,7 +16,8 @@
 
 - 고찰
   - Dataset의 크기, resolution이 작으므로 Batchsize 256인 경우보다 64일 때 더 높은 성적
-    ![Uploading 스크린샷 2022-09-29 오후 10.33.26.png…]()
+  ![스크린샷 2022-09-29 오후 10 38 03](https://user-images.githubusercontent.com/52686915/193046759-f6b0d214-4912-4354-872a-154c3b2c1edc.png)
+
 
   - OneCycle Laerning rate scheduler이용 여부에 따라 차이 발생
-  ![스크린샷 2022-09-29 오후 10 36 45](https://user-images.githubusercontent.com/52686915/193046455-bdef6948-aecd-4138-bf9f-36d7c2937dea.png)
+![스크린샷 2022-09-29 오후 10 37 36](https://user-images.githubusercontent.com/52686915/193046656-0a6894d2-af8d-487f-bee7-c046359624a7.png)
